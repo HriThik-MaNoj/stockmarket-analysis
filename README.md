@@ -1,4 +1,4 @@
-# stockmarket-analysis
+# Stockmarket-analysis
 # Project Overview
 This project involves the analysis of historical daily stock prices for all tickers currently trading on NASDAQ, retrieved from Yahoo Finance. The goal is to conduct in-depth exploratory data analysis (EDA) to understand trends, price movements, and trading volumes of various stocks and ETFs. The data analysis will provide insights into the market's behavior and could serve as a foundation for further financial modeling and forecasting.
 
